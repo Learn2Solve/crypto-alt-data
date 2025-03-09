@@ -10,3 +10,9 @@ Aim: Build a crossectional sentiment feature for crypto.
 4. Telegram;
 5. Discrod;
 6. On-chain wallets/DEX;
+
+
+Refs:
+https://www.alexandriatechnology.com
+
+
